@@ -17,6 +17,11 @@ permalink: /weeks/week-02/
   <img src="{{ '/assets/images/w02-2.jpg' | relative_url }}" alt="圖二" style="width: 50%;">
 </div>
 
+<div style="display: flex; gap: 20px; margin-left: 0; padding-left: 0;">
+  <img src="{{ '/assets/images/w02-1.jpg' | relative_url }}" alt="圖一" style="width: calc(50% - 10px);">
+  <img src="{{ '/assets/images/w02-2.jpg' | relative_url }}" alt="圖二" style="width: calc(50% - 10px);">
+</div>
+
 
 ## FRICTION｜摩擦
 
