@@ -17,6 +17,10 @@ permalink: /weeks/week-02/
   <img src="{{ '/assets/images/w02-2.jpg' | relative_url }}" alt="圖二" style="width: calc(50% - 5px);">
 </div>
 
+<div class="image-row">
+  <img src="{{ '/assets/images/w02-1.jpg' | relative_url }}" alt="圖一">
+  <img src="{{ '/assets/images/w02-2.jpg' | relative_url }}" alt="圖二">
+</div>
 
 ![圖三]({{ '/assets/images/w02-3.jpg' | relative_url }})
 
