@@ -11,11 +11,11 @@ permalink: /weeks/week-03/
 
 ## TRACE｜痕跡
 <!-- 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。 -->
-### _A組導讀工作坊_
+### _．A組導讀工作坊_
 ![圖ㄧ]({{ '/assets/images/w03-1.jpg' | relative_url }})
 組員從人社一館和行政大樓之間的路徑帶回的樹幹，觸感很鮮明，即使矇著眼也能清楚知道是什麼
 
-### _地面回畫工作坊_
+### _．地面回畫工作坊_
 ![圖二]({{ '/assets/images/w03-2.jpg' | relative_url }})
 製作 Seismographic Sketching Device
 ![圖三]({{ '/assets/images/w03-3.jpg' | relative_url }})
