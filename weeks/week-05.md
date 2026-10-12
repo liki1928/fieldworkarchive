@@ -7,7 +7,7 @@ permalink: /weeks/week-05/
 
 # 感測器與資料
 <!-- 請保留具體的現場、材料、語句或身體感受。-->
->分類、混合、蝶豆花、海藻酸鈉、繩結感測器<br>Change the instruments, and you will change the entire social theory that goes with them.
+>分類、混合、蝶豆花、海藻酸鈉、繩結感測器、軟軟的<br>Change the instruments, and you will change the entire social theory that goes with them.
 
 
 ## TRACE｜痕跡
