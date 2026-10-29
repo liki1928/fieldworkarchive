@@ -10,9 +10,9 @@ permalink: /weeks/week-08/
 > 請紀錄這週的嘗試。
 
 ## 風的拓印
-Knowing as You Go 行進中的認知<br>
-Open-air instrumentalisms 露天工具主義<br>
-Material Agency 物質能動性
+\# Knowing as You Go 行進中的認知<br>
+\# Open-air instrumentalisms 露天工具主義<br>
+\# Material Agency 物質能動性
 
 ### 創作概念
 以傳統水拓畫為基礎，將原本由人為控制的攪拌動作交給自然風，讓風、水與顏料共同生成圖像。
@@ -26,3 +26,5 @@ Material Agency 物質能動性
 - 將不可見的風轉化為可保存的視覺痕跡。
 - 觀察不同風況下，圖像如何自行生成。
 - 探索自然環境與材料共同參與創作的可能性。
+
+## 實驗清單
