@@ -34,13 +34,18 @@ permalink: /weeks/week-09/
 ## PROTOTYPE｜原型
 <!-- 放入草圖、結構圖、介面畫面、製作過程及實際測試照片。 -->
 <!-- 若有影片、聲音或互動版本，請附上連結。 -->
+實際操作影片: https://drive.google.com/file/d/1yCKWlhJyJmjxBJLCzgK4i2YxkqOLbo4L/view?usp=sharing
 ![圖ㄧ]({{ '/assets/images/w09-1.jpg' | relative_url }})
 ![圖二]({{ '/assets/images/w09-2.jpg' | relative_url }})
 ![圖三]({{ '/assets/images/w09-3.jpg' | relative_url }})
 ![圖四]({{ '/assets/images/w09-4.jpg' | relative_url }})
+薄宣紙、素描紙、普通水彩紙、法國水彩紙<br>
+上排：室內｜純水＋純墨<br>
+下排：室外｜純水＋純墨<br>
 ![圖五]({{ '/assets/images/w09-5.jpg' | relative_url }})
+室內｜增稠水＋純墨
 ![圖六]({{ '/assets/images/w09-6.jpg' | relative_url }})
-
+室內｜純水＋壓克力顏料
 
 ## FIELD TEST｜一次具體測試
 
