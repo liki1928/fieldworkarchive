@@ -34,7 +34,7 @@ permalink: /weeks/week-09/
 ## PROTOTYPE｜原型
 <!-- 放入草圖、結構圖、介面畫面、製作過程及實際測試照片。 -->
 <!-- 若有影片、聲音或互動版本，請附上連結。 -->
-實際操作影片: <https://drive.google.com/file/d/1yCKWlhJyJmjxBJLCzgK4i2YxkqOLbo4L/view?usp=sharing> <br>
+<!-- 實際操作影片: <https://drive.google.com/file/d/1yCKWlhJyJmjxBJLCzgK4i2YxkqOLbo4L/view?usp=sharing> -->
 [實際操作影片]([網址](https://drive.google.com/file/d/1yCKWlhJyJmjxBJLCzgK4i2YxkqOLbo4L/view?usp=sharing) "實際操作影片") <br>
 ![圖ㄧ]({{ '/assets/images/w09-1.jpg' | relative_url }})
 ![圖二]({{ '/assets/images/w09-2.jpg' | relative_url }})
