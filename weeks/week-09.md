@@ -32,10 +32,15 @@ permalink: /weeks/week-09/
 不同風向和風力會影響懸掛物的擺動方式，也可能需要調整裝置的位置和結構。水體的黏稠度、墨汁的特性和紙張的材質，也會影響工具最終留下的痕跡。<br>
 
 ## PROTOTYPE｜原型
+<!-- 放入草圖、結構圖、介面畫面、製作過程及實際測試照片。 -->
+<!-- 若有影片、聲音或互動版本，請附上連結。 -->
+![圖ㄧ]({{ '/assets/images/w09-1.jpg' | relative_url }})
+![圖二]({{ '/assets/images/w09-2.jpg' | relative_url }})
+![圖三]({{ '/assets/images/w09-3.jpg' | relative_url }})
+![圖四]({{ '/assets/images/w09-4.jpg' | relative_url }})
+![圖五]({{ '/assets/images/w09-5.jpg' | relative_url }})
+![圖六]({{ '/assets/images/w09-6.jpg' | relative_url }})
 
-放入草圖、結構圖、介面畫面、製作過程及實際測試照片。
-
-若有影片、聲音或互動版本，請附上連結。
 
 ## FIELD TEST｜一次具體測試
 
